@@ -1,0 +1,37 @@
+body {
+
+
+font-family: Arial, sans-serif;
+
+background-color:#f2f2f2;
+
+margin: 100px;
+
+padding: 20px;}
+
+#converter {
+
+text-align: center;
+padding: 50px;
+background-color:#bdcd3f;
+border: 1px solid #488fb0;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+
+};
+
+label,select,button{
+    margin: 50px;
+}
+button{
+    padding: 10px 20px;
+    background-color: #20a23e;
+    color:antiquewhite;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+p{
+    margin-top: 10px;
+    font-size: 16px;
+}
